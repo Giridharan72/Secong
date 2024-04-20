@@ -1,0 +1,25 @@
+{
+    "rewrites": [
+      {
+        "source": "/login",
+        "destination": "/"
+      },
+      {
+        "source": "/register",
+        "destination": "/"
+      },
+      {
+        "source": "/Forgot",
+        "destination": "/"
+      },
+      {
+        "source": "/reset",
+        "destination": "/"
+      },
+      {
+        "source": "/(.*)",
+        "destination": "/$1"
+      }
+    ]
+  }
+  
