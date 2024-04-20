@@ -1,6 +1,6 @@
 {
     "rewrites": [
-     {"source":"/(.*)","destination":"/"
+     {"source":"/(.*)","destination":"https://secong-git-main-giridharans-projects.vercel.app/"
      }
     ]
   }
